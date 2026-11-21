@@ -5,7 +5,6 @@
 <meta charset="UTF-8">
 <meta name="VibeChek" content="width=device-width,
 initial-scale=1.0">
-Мій перший сайт
 </head>
 <body>
 <h1>Вітаю на моєму сайті!</h1>
